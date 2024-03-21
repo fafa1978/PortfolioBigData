@@ -1,0 +1,5 @@
+id,nome_progetto,descrizione,tecnologie,data_inizio,data_fine,stato
+1,Analisi Trend Mercato,Analisi delle tendenze di mercato attuali,Python; Pandas; Matplotlib,2023-01-15,2023-03-30,Completato
+2,Predizione Vendite,Modello predittivo per le vendite future,Python; Scikit-Learn; NumPy,2023-02-01,2023-04-15,In corso
+3,Elaborazione Big Data,Manipolazione di grandi set di dati con PySpark,Python; PySpark; Hadoop,2023-02-20,2023-05-10,In corso
+4,Dashboard Interattiva,Creazione di una dashboard interattiva per l'analisi dei dati,Python; Plotly; Dash,2023-03-01,2023-06-15,In corso
